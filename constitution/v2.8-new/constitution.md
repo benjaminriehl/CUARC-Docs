@@ -12,7 +12,7 @@ Revision 2.8 — 16/November/2010 — Reformatted 26/January/2023
 # Article 2 : Name
 
 1. The name of the association is "Concordia University Amateur Radio Club", hereafter referred to as "CUARC"
-2. Also known by the Industry Canada call sigh VE2CUA
+2. Also known by the Industry Canada call sign VE2CUA
 3. Also known by the Industry Canada call sign VE2RCU
 4. Also known by the Industry Canada call sign VE2CLO
 
