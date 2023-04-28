@@ -1,4 +1,4 @@
-Concordia University Amateur Radio Club - Constitution
+# Concordia University Amateur Radio Club - Constitution
 
 Revision 3.0 — 27/April/2023
 
